@@ -21,7 +21,7 @@ A starter project for building a backend application using **Express** and **Typ
 First, clone the repository to your local machine:
 
 ```bash
-git clone git@github.com:hermit-github/npm-express-ts-starter.git
+git clone git@github.com:hermit-github/npm-express-ts-starter.git```
 
 ### 2. Install Dependencies
 
