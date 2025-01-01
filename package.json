@@ -1,0 +1,21 @@
+{
+  "name": "npm-express-ts-starter",
+  "version": "1.0.0",
+  "description": "starter project for express backend using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "volta": {
+    "node": "22.12.0"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^22.10.3"
+  }
+}
